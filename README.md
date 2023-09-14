@@ -2,9 +2,9 @@
 🚨此网站并非作者 @pw-hxss 所创🚨  
 [https://chat.openai.com/](https://chat.openai.com/)
 
-![Sample Image 1 for chatGPT]()
+![Sample Image 1 for chatGPT](https://github.com/pw-hxss/ImageGPT/blob/main/sample%20gpt%201.png)
 
-![Sample Image 2 for chatGPT]()
+![Sample Image 2 for chatGPT](https://github.com/pw-hxss/ImageGPT/blob/main/sample%20gpt%202.png)
 
 # 使用教程🎥
 🚨此视频并非作者 @pw-hxss 所创🚨  
